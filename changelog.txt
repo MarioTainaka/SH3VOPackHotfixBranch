@@ -1,0 +1,15 @@
+Version Something....
+
+
+
+---------------------
+
+Changelog
+---------------------
+
+
+-Reduced filesize by optimizing Virtual AFS file by removing bloat that can be loaded by the Vanilla game with no diffrence to performance
+
+-Fixed Potential Audio Related crashes by removing bloat that can be loaded by the Vanilla game with no diffrence to performance.
+
+-Added Custom Wiper sound for Event 22 (Ride To Silent Hill With Douglas)
